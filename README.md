@@ -82,11 +82,6 @@ Deploy easily on:
 
 Want to improve this project? Awesome!
 
-📸 Screenshots
-
-![Uploading image.png…]()
-
-
 1. Fork the repo
 2. Create a new branch (feature/your-feature)
 3. Commit changes
