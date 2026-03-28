@@ -42,7 +42,7 @@ Technology	Usage
  ┗ 📜 README.md
 ⚙️ Getting Started
 1️⃣ Clone Repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone: https://github.com/sharmaa50045/Animated-Website
 2️⃣ Install Dependencies
 npm install
 3️⃣ Run Project
@@ -81,6 +81,11 @@ Deploy easily on:
 🤝 Contributing
 
 Want to improve this project? Awesome!
+
+📸 Screenshots
+
+![Uploading image.png…]()
+
 
 1. Fork the repo
 2. Create a new branch (feature/your-feature)
