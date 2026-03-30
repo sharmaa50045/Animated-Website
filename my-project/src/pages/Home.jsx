@@ -2,6 +2,7 @@ import Video from "../../src/components/home/Video.jsx";
 import HomeHeroText from "../../src/components/home/HomeHeroText.jsx";
 import HomeBottomText from "../../src/components/home/HeroBottomText.jsx";
 
+
 const Home = () => {
   return (
     <div className="text-white">
