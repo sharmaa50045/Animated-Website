@@ -6,7 +6,7 @@ import HomeBottomText from "../../src/components/home/HeroBottomText.jsx";
 const Home = () => {
   return (
     <div className="text-white">
-      <div className="h-screen w-screen fixed top-0 left-0">
+      <div className="h-screen w-screen rounded-full fixed top-0 left-0">
         <Video />
       </div>
 
